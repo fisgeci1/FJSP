@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FJSP HILLS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FJSP_HILLS_jar</output-path>
+    <root id="archive" name="FJSP HILLS.jar">
+      <element id="module-output" name="FJSP HILLS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jdistlib-0.0.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

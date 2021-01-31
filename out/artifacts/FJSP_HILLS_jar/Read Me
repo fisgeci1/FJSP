@@ -1,0 +1,7 @@
+first argumentthe number of iteretion per instance defaults: 50
+second argument the number of islands defaults: 10
+third argument the maxGeneration defaults : 5000
+fourth argument migarationMark defaults : 200
+fifth argument mutationRate defaults : 0.02
+
+to test if it works copy paste into comand promt when in the directory where the jar file is: java -jar fjsp.jar 50 10 5000 200 0.02
